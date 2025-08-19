@@ -1,0 +1,13 @@
+# Tableau
+*.twbx
+*.tdsx
+*.hyper
+*.tde
+
+# Data
+data/*.csv
+!data/data_sample.csv
+!data/README.md
+
+# OS
+.DS_Store
