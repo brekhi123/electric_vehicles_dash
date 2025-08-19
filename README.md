@@ -15,7 +15,7 @@
 ## 1. Overview
 - **Dashboard Name/Link**: <a href="https://public.tableau.com/views/electric_dash/ElectricVehicleDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank" rel="noopener noreferrer">Electric Vehicle Analysis</a>
 - **Creator**: Bishneet Rekhi
-- **Date Created**: August 4, 2025
+- **Date Created**: July 4, 2025
 - **Last Updated**: August 19, 2025
 - **Purpose**: Analyze adoption, distribution and trends of Electric Vehicles (EVs) using Washington State registration data.
 - **Primary Audience**: Dealerships, electric businesses, potential electric vehicle buyers, researchers, analysts
