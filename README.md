@@ -3,12 +3,12 @@
 ### Quick Links
 - **Primary workbooks**: `electric_dash.twb`, `electric_dash_revamped.twb`
 - **Data file**: `data/Electric_Vehicle_Population_Data.csv`
-- **Screenshot**: `ElectricVehicleDashboard.png`
+- **Screenshot**: `ElectricVehicleDashboardFinal.png`
 
 ---
 
 ### Preview
-![Electric Vehicle Dashboard preview](ElectricVehicleDashboard.png)
+![Electric Vehicle Dashboard preview](ElectricVehicleDashboardFinal.png)
 
 ---
 
