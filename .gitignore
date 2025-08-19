@@ -11,3 +11,6 @@ data/*.csv
 
 # OS
 .DS_Store
+
+# Tableau temp
+*.twbr
