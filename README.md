@@ -53,7 +53,9 @@ Electric Range, Base MSRP, Legislative District, DOL Vehicle ID,
 Vehicle Location, Electric Utility, 2020 Census Tract
 ```
 
-> Note: `Vehicle Location` is a point string (e.g., `POINT (-122.23 47.30)`), and `Electric Vehicle Type` contains values like "Battery Electric Vehicle (BEV)" and "Plug-in Hybrid Electric Vehicle (PHEV)".
+> Notes:
+> - `Vehicle Location` is a point string (e.g., `POINT (-122.23 47.30)`).
+> - `Electric Vehicle Type` contains values like "Battery Electric Vehicle (BEV)" and "Plug-in Hybrid Electric Vehicle (PHEV)".
 
 ---
 
@@ -164,6 +166,8 @@ Suggested optimizations:
 | Vehicle Location | String | `POINT (lng lat)` |
 | Electric Utility | String | Serving utility |
 | 2020 Census Tract | String | Census tract identifier |
+
+
 
 ---
 
