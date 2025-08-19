@@ -1,4 +1,4 @@
-## Electric Vehicles Dashboard
+## Electric Vehicle Analysis
 
 ### Quick Links
 - **Primary workbooks**: `electric_dash.twb`, `electric_dash_revamped.twb`
