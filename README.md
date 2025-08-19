@@ -13,7 +13,7 @@
 ---
 
 ## 1. Overview
-- **Dashboard Name/Link**: [Electric Vehicle Analysis](https://public.tableau.com/views/electric_dash/ElectricVehicleDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- **Dashboard Name/Link**: <a href="https://public.tableau.com/views/electric_dash/ElectricVehicleDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank" rel="noopener noreferrer">Electric Vehicle Analysis</a>
 - **Creator**: Bishneet Rekhi
 - **Date Created**: August 4, 2025
 - **Last Updated**: August 19, 2025
@@ -38,6 +38,7 @@
 - **Data Connection Information**:
   - File path: `data/Electric_Vehicle_Population_Data.csv`
   - Approx. size: ~60 MB, ~257,636 rows
+  - Full dataset source: Kaggle — Electric Vehicle Population Data 2025: https://www.kaggle.com/datasets/nuhmanpk/electric-vehicle-population-data-2025
 - **Connection Type**: Extract (but live on Tableau Server)
 - **Refresh Frequency**: Monthly
 - **Joins, Relationships, Unions, Blends**: Single flat file (no joins)
